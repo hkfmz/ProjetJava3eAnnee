@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/InventorySoftware.jar"/>
+	<classpathentry kind="lib" path="dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="dist/lib/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/NetBeansProjects/API-JAVA/Mysql-connector 5.1.45/mysql-connector-java-5.1.45.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/NetBeansProjects/API-JAVA/javaMail/javax.mail-api-1.6.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
